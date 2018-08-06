@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Pato()
+comment0.text=\r\n\ Construtor\ da\ classe\ pato\r\n
+comment1.params=
+comment1.target=void\ display()
+comment1.text=\r\n\ Este\ m\u00E9todo\ mostra,\ desenha\ o\ pato\ na\ tela;\r\n\ @param\ n\u00E3o\ tem\ par\u00E2metros;\r\n\ @return\ n\u00E3o\ retorna\ nada;\r\n
+comment2.params=
+comment2.target=void\ grassitar()
+comment3.params=
+comment3.target=void\ nadar()
+numComments=4
